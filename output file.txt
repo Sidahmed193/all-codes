@@ -1,0 +1,5 @@
+The values of the array are:
+9	11	12	15	
+Average of array values is 11.750000
+Maximum value = 15
+
