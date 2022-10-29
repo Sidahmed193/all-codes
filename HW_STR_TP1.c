@@ -1,6 +1,6 @@
 // HW__STR_TP1
 //  homework --- STR ----------------------------------
-
+/*
 #include <stdio.h>
 #define n 10
 
@@ -72,7 +72,7 @@ int main()
     return 0;
     }
 }
-
+*/
 
 /*
 // LIFO STACK
