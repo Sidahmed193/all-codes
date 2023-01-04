@@ -14,7 +14,7 @@ void task2(time)
     // printf("task2 of priority 1 with excution time 60 ms and  period of 100ms ");
     // printf("#################################################################################################");
     printf("----------##-------------");
-    for(int i=0;i<60){
+    for(int i=0;i<60;i++){
     time++;
     task_scheduler(time);
     }
